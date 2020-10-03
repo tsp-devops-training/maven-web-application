@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tejas Software Solutions.</h1>
+<h1 align="center">Welcome to TejPat Software Solutions.</h1>
 <h1 align="center"> Welcome to Tejas Technologies.......We have a demo on  DevOps with AWS on 10th Oct 2020  at 7 PM IST for new batch. , Google.</h1>
 <hr>
 <div style="text-align: center;">
